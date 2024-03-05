@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+}
+.main{
+    height: 100vh;
+}
+.nevbar{
+    border: 1px solid black;
+    height: 6.8%;
+    width: 70%;
+    margin-left: 15%;
+}
+.photo{
+    height: 10%;
+    width: 20%;
+    
+}
